@@ -67,7 +67,7 @@ ______
 
 **4)** Como você criaria um método `acelerar()` em uma classe `Carro`, que recebe um parâmetro `velocidade` e o adiciona a um atributo `velocidadeAtual`?
 
-**A)** ![Uma imagem](assets/ex04_1.PNG)
+**A)![Uma imagem](assets/ex04_1.PNG)**
 
 B) ![Uma imagem](assets/ex04_2.PNG)
 
